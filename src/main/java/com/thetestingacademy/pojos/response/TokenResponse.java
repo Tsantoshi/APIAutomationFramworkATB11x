@@ -16,5 +16,4 @@ public class TokenResponse {
     public void setToken(String token) {
         this.token = token;
     }
-
 }

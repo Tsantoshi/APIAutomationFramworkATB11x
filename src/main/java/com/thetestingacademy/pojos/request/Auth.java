@@ -28,4 +28,5 @@ public class Auth {
         this.password = password;
     }
 
+
 }

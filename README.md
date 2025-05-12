@@ -132,7 +132,6 @@ Response
 Status Code
 Headers
 ———
-
 Create Collection
 
 RestfulBooker CRUD operation.
